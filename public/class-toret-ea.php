@@ -16,7 +16,7 @@ class Toret_EA {
 	 *
 	 * @var     string
 	 */
-	const VERSION = '1.0.0';
+	const VERSION = '1.1.0';
 
 	/**
 	 *
@@ -245,7 +245,7 @@ class Toret_EA {
 		//$attachments, $payment_method_id
 		$main_attachments = get_option('toret-ea-option');
 
-		$country = get_post_meta( $order->id, '_billing_country', true );
+		$country = get_post_meta( $order->get_id(), '_billing_country', true );
 
 		if( $country == 'CZ'){
 			
