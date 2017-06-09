@@ -19,5 +19,8 @@ License URI:
 
 == Changelog ==
 
+= 1.1.0 =
+* Kompatibilita s WooCommerce 3.0+
+
 = 1.0.0 =
 * Vydání pluginu

@@ -9,7 +9,7 @@
  * Plugin Name:       Toret Email Attachments
  * Plugin URI:        
  * Description:       Umožňuje přidat emailu o zpracovávané objednávce dvě přílohy a ke každému produktu v objednávce po jedné příloze.
- * Version:           1.0.0
+ * Version:           1.1.0
  * Author:            Vladislav Musílek
  * Author URI:        toret.cz
  * Text Domain:       toret-email-attachments
